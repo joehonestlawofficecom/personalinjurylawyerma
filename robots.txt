@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://personalinjurylawyerma.com/sitemap.xml
